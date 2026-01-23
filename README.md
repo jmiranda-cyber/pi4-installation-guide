@@ -26,7 +26,9 @@ Disable Controlled Folder Access: Navigate to Ransomware Protection and toggle "
 
 ![](images/02_ransomware_toggle_off.png)
 
-Add an Exclusion: Add the file path for the Raspberry Pi imager to the exclusions list. [Insert Image: 02_defender_exclusion.png]
+Add an Exclusion: Add the file path for the Raspberry Pi imager to the exclusions list. 
+
+![](images/03_defender_exclusion.png)
 
 3. Recovering the "Missing" SD Card 💾
 A failed write attempt can make the SD card disappear from Windows Explorer because it becomes "unallocated". Fix this in Disk Management:
