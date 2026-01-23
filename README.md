@@ -24,7 +24,7 @@ To allow the imager to work, adjust these settings in Windows Security:
 
 Disable Controlled Folder Access: Navigate to Ransomware Protection and toggle "Controlled folder access" to Off.
 
-[[![](images/02_ransomware_toggleoff.png)](https://github.com/jmiranda-cyber/pi4os-installation-guide/commit/aeb2c6d26cc2c6266c58ff320465c738185e1a66#diff-27512c7d4754ec78444dced86bf8d51938152af98ce6b54a8bfe1cba8612f810)](https://github.com/jmiranda-cyber/pi4os-installation-guide/commit/aeb2c6d26cc2c6266c58ff320465c738185e1a66#diff-27512c7d4754ec78444dced86bf8d51938152af98ce6b54a8bfe1cba8612f810)
+[[![](images/02_ransomware_toggle%20off.png)
 
 Add an Exclusion: Add the file path for the Raspberry Pi imager to the exclusions list. 
 
