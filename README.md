@@ -41,7 +41,11 @@ Assign Volume: Right-click the space and use the New Simple Volume Wizard to ass
 
 ![](images/05_new_volume_wizard.png)
 
-Format & Verify: Once formatted as FAT32, the card will reappear in Explorer. [Insert Image: 06_formatted_explorer.png]
+Format & Verify: Once formatted as FAT32, the card will reappear in Explorer. 
+
+![](images/06_formatted_explorer.png)
+
+![](images/07_formatted_explorer.png)
 
 4. Final Verification ✅
 With security exclusions set and the SD card partitioned, the installation will complete, and you can boot into the Raspberry Pi OS desktop.
