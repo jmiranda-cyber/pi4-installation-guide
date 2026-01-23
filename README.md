@@ -37,7 +37,9 @@ Locate the Disk: Find the unallocated SD card.
 
 ![](images/04_unallocated_disk.png)
 
-Assign Volume: Right-click the space and use the New Simple Volume Wizard to assign a drive letter. [Insert Image: 05_new_volume_wizard.png]
+Assign Volume: Right-click the space and use the New Simple Volume Wizard to assign a drive letter. 
+
+![](images/05_new_volume_wizard.png)
 
 Format & Verify: Once formatted as FAT32, the card will reappear in Explorer. [Insert Image: 06_formatted_explorer.png]
 
