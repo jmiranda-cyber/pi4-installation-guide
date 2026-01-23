@@ -22,7 +22,9 @@ When attempting to flash the OS, you may encounter a "Write Error". This typical
 2. Resolving Security Blocks 🛡️
 To allow the imager to work, adjust these settings in Windows Security:
 
-Disable Controlled Folder Access: Navigate to Ransomware Protection and toggle "Controlled folder access" to Off. [Insert Image: 03_ransomware_toggle.png]
+Disable Controlled Folder Access: Navigate to Ransomware Protection and toggle "Controlled folder access" to Off.
+
+![](mages/02_ransomware_toggleoff.png)
 
 Add an Exclusion: Add the file path for the Raspberry Pi imager to the exclusions list. [Insert Image: 02_defender_exclusion.png]
 
