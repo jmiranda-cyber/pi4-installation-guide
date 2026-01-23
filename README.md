@@ -33,7 +33,9 @@ Add an Exclusion: Add the file path for the Raspberry Pi imager to the exclusion
 3. Recovering the "Missing" SD Card 💾
 A failed write attempt can make the SD card disappear from Windows Explorer because it becomes "unallocated". Fix this in Disk Management:
 
-Locate the Disk: Find the unallocated SD card. [Insert Image: 04_unallocated_disk.png]
+Locate the Disk: Find the unallocated SD card. 
+
+![](images/04_unallocated_disk.png)
 
 Assign Volume: Right-click the space and use the New Simple Volume Wizard to assign a drive letter. [Insert Image: 05_new_volume_wizard.png]
 
