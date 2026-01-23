@@ -73,6 +73,8 @@ A failed flash can leave the SD card marked as **Unallocated**, making it invisi
 
 ![](images/06_formatted_explorer.png)
 
+The SD card should now reappear in File Explorer.
+
 ![](images/07_formatted_explorer.png)
 
 ### 4. Final Verification ✅
