@@ -50,7 +50,7 @@ Format & Verify: Once formatted as FAT32, the card will reappear in Explorer.
 4. Final Verification ✅
 With security exclusions set and the SD card partitioned, the installation will complete, and you can boot into the Raspberry Pi OS desktop.
 
-![](08_success_desktop.png)
+![](images/08_success_desktop.png)
 
 
 
