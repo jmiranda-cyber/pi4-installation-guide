@@ -17,7 +17,7 @@ Software: Raspberry Pi Imager installed on a Windows PC.
 1. The Initial Setup & Known Error ⚠️
 When attempting to flash the OS, you may encounter a "Write Error". This typically happens because Windows Defender blocks the imager from writing to the disk.
 
-[Insert Image: 01_imager_error.png]  ![]images/01_imager_error.png
+[Insert Image: 01_imager_error.png]  ![]images/.gitkeep(01_imager_error.png)
 
 2. Resolving Security Blocks 🛡️
 To allow the imager to work, adjust these settings in Windows Security:
