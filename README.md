@@ -42,7 +42,7 @@ This typically happens when Windows Defender blocks disk write access.
 4. Toggle **Controlled folder access** to **Off**
 
 
-[[![](images/02_ransomware_toggle%20off.png)
+![](images/02_ransomware_toggle%20off.png)
 
 
 #### Add Raspberry Pi Imager as an Exclusion
